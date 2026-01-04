@@ -24,6 +24,9 @@ This project addresses the challenge of searching through vast musical libraries
 * **Data Handling:** Pandas, NumPy
 * **Notebook:** Jupyter Notebook for interactive demonstration
 
+### 🔗 [Download Dataset](https://www.kaggle.com/datasets/joebeachcapital/57651-spotify-songs)
+
+
 
 ## 🚀 The Process
 1. **Data Preprocessing:** Standardized raw lyrics through tokenization and noise reduction (regex filtering).
