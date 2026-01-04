@@ -55,4 +55,4 @@ cd spotify-lyric-search
 
 ---
 
-**Developed by:** [Shovan Bera](theshovan)
+**Developed by:** [Shovan Bera](https://github.com/theshovan)
